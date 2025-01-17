@@ -554,7 +554,7 @@ video {
   display: none;
 }
 
-.text-red-500 {
-  --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity, 1));
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }

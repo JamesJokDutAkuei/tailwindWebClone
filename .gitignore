@@ -10,7 +10,6 @@ tailwind.config.js
 
 # Ignore package-lock.json or yarn.lock files (optional, only if you prefer to ignore them)
 package-lock.json
-package.json
 yarn.lock
 
 # Ignore the default PostCSS config file (if used in the project)
