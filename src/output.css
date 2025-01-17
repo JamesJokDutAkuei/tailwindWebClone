@@ -554,7 +554,153 @@ video {
   display: none;
 }
 
-.text-4xl {
-  font-size: 2.25rem;
-  line-height: 2.5rem;
+.flex {
+  display: flex;
+}
+
+.h-6 {
+  height: 1.5rem;
+}
+
+.h-\[400px\] {
+  height: 400px;
+}
+
+.h-4 {
+  height: 1rem;
+}
+
+.h-64 {
+  height: 16rem;
+}
+
+.h-5\/6 {
+  height: 83.333333%;
+}
+
+.h-96 {
+  height: 24rem;
+}
+
+.h-3\.5 {
+  height: 0.875rem;
+}
+
+.h-\[100px\] {
+  height: 100px;
+}
+
+.h-\[800px\] {
+  height: 800px;
+}
+
+.h-\[300px\] {
+  height: 300px;
+}
+
+.h-\[330px\] {
+  height: 330px;
+}
+
+.h-\[350px\] {
+  height: 350px;
+}
+
+.h-\[450px\] {
+  height: 450px;
+}
+
+.h-20 {
+  height: 5rem;
+}
+
+.h-8 {
+  height: 2rem;
+}
+
+.h-auto {
+  height: auto;
+}
+
+.h-1 {
+  height: 0.25rem;
+}
+
+.max-h-3\.5 {
+  max-height: 0.875rem;
+}
+
+.w-12 {
+  width: 3rem;
+}
+
+.w-\[700px\] {
+  width: 700px;
+}
+
+.w-8 {
+  width: 2rem;
+}
+
+.w-48 {
+  width: 12rem;
+}
+
+.w-40 {
+  width: 10rem;
+}
+
+.w-10 {
+  width: 2.5rem;
+}
+
+.min-w-full {
+  min-width: 100%;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.bg-red-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#A18B4D\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(161 139 77 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[url\(\'\.\/images\/doctors\.jpeg\'\)\] {
+  background-image: url('./images/doctors.jpeg');
+}
+
+.bg-\[url\(\'\.\.\/images\/doctors\.jpeg\'\)\] {
+  background-image: url('../images/doctors.jpeg');
+}
+
+.bg-\[url\(\'doctors\.jpeg\'\)\] {
+  background-image: url('doctors.jpeg');
+}
+
+.bg-\[url\(\'\.\.\/doctors\.jpeg\'\)\] {
+  background-image: url('../doctors.jpeg');
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
