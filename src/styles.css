@@ -1,4 +1,9 @@
 /* src/styles.css */
 @tailwind base;
 @tailwind components;
+
+.gen {
+    @apply underline decoration-2 font-thin hover:text-[#A18B4D];
+} 
+
 @tailwind utilities;
